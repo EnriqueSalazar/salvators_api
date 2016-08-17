@@ -1,3 +1,3 @@
 # server
 
-a [Sails](http://sailsjs.org) application
+APIs de backend de aplicacion para Salvator's Pizza.
